@@ -36,12 +36,6 @@
                 {
                   "type": "image",
                   "url": "https://media.giphy.com/media/13gkmdFx5eiklG/giphy.gif",
-                  "style": {
-                    "align": "center",
-                    "font": "Courier",
-                    "padding": "30",
-                    "size": "14"
-                  }
                 },
                 {
                   "type": "label",
