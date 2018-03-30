@@ -34,8 +34,8 @@
                   }
                 },
                 {
-                  "type": "label",
-                  "text": "Meow.",
+                  "type": "image",
+                  "url": "https://media.giphy.com/media/13gkmdFx5eiklG/giphy.gif",
                   "style": {
                     "align": "center",
                     "font": "Courier",
